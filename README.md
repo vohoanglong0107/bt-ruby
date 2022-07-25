@@ -5,13 +5,13 @@
 Nhap bang tay:
 
 ```bash
-./run.sh bai2.rb i
+./run.sh main.rb i
 ```
 
 Nhap bang file:
 
 ```bash
-cat array.txt | ./run.sh bai2.rb
+cat nv.txt | ./run.sh main.rb
 ```
 
 ## Note
