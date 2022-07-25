@@ -1,0 +1,5 @@
+Nguyen Van A, DEV
+Nguyen Van B, QA
+Nguyen Van C, TESTER
+Nguyen Thi D, INFRA
+Nguyen Thi E, BO
